@@ -1,0 +1,77 @@
+.big-box {
+    height: 195px;
+    padding: 15px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.to-get {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.input-box {
+    width: 450px;
+    height: 58px;
+
+    border: 1px solid #E03C33;
+    border-radius: 4px 0px 0px 4px;
+}
+
+.subscribe {
+    width: 172px;
+    height: 58px;
+    background: #E03C33;
+    border: 1px solid #E03C33;
+    border-radius: 0px 4px 4px 0px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+}
+
+.address {
+    font-size: 13px;
+}
+
+.address2 {
+    font-size: 13px;
+    margin-top: 15px;
+}
+
+.quik-link {
+    font-size: 20px;
+    font-weight: bold;
+}
+.home{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+color: #636E72;
+}
+.footer {
+    height: 80px;
+    background: #E03C33;
+    width: 109%;
+    margin-left: -80px;
+
+}
+.footer-text{
+width: 293px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+margin-left: 40px;
+
+color: #FFFFFF;
+}
